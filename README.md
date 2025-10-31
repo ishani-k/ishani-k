@@ -7,9 +7,9 @@
 
 [![An image of @ishanik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishanik)](https://holopin.io/@ishanik)
 
-```
-![Visitor Count](https://profile-counter.glitch.me/ishani-k/count.svg)
-```
+
+<!--![Visitor Count](https://profile-counter.glitch.me/ishani-k/count.svg)-->
+
 <!--
 **ishani-k/ishani-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
