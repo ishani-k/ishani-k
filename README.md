@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Ishani;A+full+-+stack+developer;Welcome+to+my+Github+!)](https://git.io/typing-svg)
+<h1 align='center'>Hi, I am Ishani Kundu. A full stack developer.</h1>
 
-## This readme is WIP.
 [![GitHub Streak](https://github-readme-streak-stats-sigma-six.vercel.app/?user=ishani-k&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishani-k&theme=merko&hide_border=true)](https://github.com/ishani-k/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishani-k&theme=merko&hide_border=true)](https://github.com/ishani-k/github-readme-stats) ]
 
 [![An image of @ishanik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishanik)](https://holopin.io/@ishanik)
 
