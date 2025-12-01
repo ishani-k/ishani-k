@@ -1,18 +1,20 @@
-<h1 align='center'>Hi, I am Ishani Kundu. A full stack developer.</h1>
+# Hi there, I am Ishani Kundu
 
-[![GitHub Streak](https://github-readme-streak-stats-sigma-six.vercel.app/?user=ishani-k&theme=merko&hide_border=true)](https://git.io/streak-stats)
+  - I am a passionate software developer from India.
+  - Quite enthusiast about building useful, real-world products.
+  - I've built multiple full stack projects and also actively contributed to open source.
+  - Currently I'm expanding my knowledge on backend technologies and workflows.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishani-k&theme=merko&hide_border=true)](https://github.com/ishani-k/github-readme-stats) ]
+## Tools and Technologies
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 [![An image of @ishanik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishanik)](https://holopin.io/@ishanik)
 
-
-<!--![Visitor Count](https://profile-counter.glitch.me/ishani-k/count.svg)-->
-
 <!--
-**ishani-k/ishani-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ishani-k/ishani-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -21,5 +23,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... 
